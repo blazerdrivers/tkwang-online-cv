@@ -7,14 +7,13 @@ contact:
   email: tkwang39@gapp.nthu.edu.tw
   github: blazerdrivers
   linkedin: tkwang
-  phone: 
-  gitlab: 
+  phone: (+886)966-326-598
+  gitlab: tkwang410810
   twitter: 
 
 languages:
+  - idiom: Chinese
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
@@ -22,8 +21,8 @@ education:
     university: Ionian University
 
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2019-223
+    university: National Tsing Hua University
 
 skills:
   - category: Backend
