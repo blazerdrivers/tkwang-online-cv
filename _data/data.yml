@@ -64,23 +64,20 @@ projects:
   - title: Audio Reharmonizer 
     link: https://github.com/blazerdrivers/Reharmonizer_web
     details: |
-      Flask, Python | \n
-      Built an application to analyze the musical structure of audio and generate a newly arranged accompaniment\n
-      Used Flask to build a website that connected to our python script
+      Flask, Python | 
+      Implemented a machine learning-based pipeline that integrates the image cropping, rectification, character detection and background inpainting, to augmenting large synthetic license plates dataset with realistic background colors, fonts, and characters from a small number of manually marked real license plate images
 
-
-  - title: Cool Project 
-    link: #
+  - title: Vehicle License Plate Augmentation Pipeline 
+    link: https://docs.google.com/presentation/d/1pvAYfB7vvSAkJ64NRQiauZkT7a0l0cCSPUff_2pqC4o/edit?usp=sharing
     details: |
+      | Python, Pytorch, OpenCV
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+      
+  - title: Art Learner Community Social Media APP | Flutter, Firebase
+    link: https://gitlab.com/gdsc_devteam/gdsc
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      | Python, Pytorch, OpenCV
+      Created a responsive cross-platform social media App using Flutter 
+      Utilized Google Firebase and FlutterFire API to build the database
+
