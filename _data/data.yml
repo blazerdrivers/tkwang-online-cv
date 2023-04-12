@@ -33,6 +33,17 @@ skills:
       - Flask
       - SQL
       - Apache
+  - category: ML
+    skill:
+      - Pytorch
+      - SKlearn
+      - OCR
+  - category: Other
+    skill:
+      - OpenCV
+      - Unity
+      - Unreal
+      - Librosa
 
 # Profile
 profile: |
