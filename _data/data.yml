@@ -54,7 +54,7 @@ profile: |
   fugiat nulla pariatur.
 
 # Experience
-experience:
+experiences:
   - role: Software Engineer
     time: 2020-Present
     company: Google
