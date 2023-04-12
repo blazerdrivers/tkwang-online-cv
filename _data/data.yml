@@ -80,4 +80,10 @@ projects:
       | Python, Pytorch, OpenCV
       Created a responsive cross-platform social media App using Flutter 
       Utilized Google Firebase and FlutterFire API to build the database
+      
+  - title: Unity 2DHD FTG/AVG Game | Unity
+    link: https://youtu.be/aMw7ZsUrTYE
+    details: |
+      Designed in Unity, featured with a strong enemy AI controller and modern rendering technique
+      Mainly responsible for combat system and enemy AI design
 
