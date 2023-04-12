@@ -1,6 +1,6 @@
 name: Ting-Kang Wang
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -16,27 +16,23 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
   - degree: BSc in Computer Science
     time: 2019-223
     university: National Tsing Hua University
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
   - category: Frontend
-    skill:
+    skill: 
+      - HTML/CSS/Javascript
+      - Flutter
       - React
       - Typescript
-  - category: DevOps
+  - category: Backend
     skill:
-      - Docker
-      - Kubernetes 
+      - Firebase
+      - Flask
+      - SQL
+      - Apache
 
 # Profile
 profile: |
