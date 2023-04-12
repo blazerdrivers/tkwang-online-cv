@@ -63,11 +63,12 @@ experience:
       Unity, C#
 
 projects:
-  - title: Auto Audio Reharmonizer 
+  - title: Audio Reharmonizer 
     link: https://github.com/blazerdrivers/Reharmonizer_web
     details: |
-      Flask, Python | Built an application to analyze the musical structure of audio and generate a newly arranged accompaniment
-                      Used Flask to build a website that connected to our python script
+      Flask, Python | \n
+      Built an application to analyze the musical structure of audio and generate a newly arranged accompaniment\n
+      Used Flask to build a website that connected to our python script
 
 
   - title: Cool Project 
